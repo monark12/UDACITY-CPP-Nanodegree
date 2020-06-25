@@ -196,13 +196,13 @@ string LinuxParser::Ram(int pid) {
       std::istringstream linestream(line);
       while(linestream >> key >> vmsize){
         if (key == "VmSize:"){
-          ram << std::fixed << std::setprecision(2) << stof(vmsize)/1000;
+          ram << std::fixed << std::setprecision(1) << stof(vmsize)/1000;
           return ram.str();
         }
       }
     }
   }
-  return string();
+  return to_string(0);
 }
 
 // TODO: Read and return the user ID associated with a process

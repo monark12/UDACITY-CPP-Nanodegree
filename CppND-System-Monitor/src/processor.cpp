@@ -2,6 +2,8 @@
 #include "linux_parser.h"
 #include <vector>
 #include <string>
+#include <unistd.h>
+
 // TODO: Return the aggregate CPU utilization
 
 float Processor::Utilization() {
