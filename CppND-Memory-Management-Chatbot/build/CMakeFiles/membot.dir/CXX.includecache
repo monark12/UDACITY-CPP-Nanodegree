@@ -30,6 +30,24 @@ wx/bitmap.h
 string
 -
 
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/chatgui.cpp
+wx/filename.h
+-
+wx/colour.h
+-
+wx/image.h
+-
+string
+-
+chatbot.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/chatbot.h
+chatlogic.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/chatlogic.h
+chatgui.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/chatgui.h
+memory
+-
+
 /home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/chatgui.h
 wx/wx.h
 -
