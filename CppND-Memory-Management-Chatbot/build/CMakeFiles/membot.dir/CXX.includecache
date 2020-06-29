@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/chatbot.cpp
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/chatbot.cpp
 iostream
 -
 random
@@ -16,21 +16,21 @@ algorithm
 ctime
 -
 chatlogic.h
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/chatlogic.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/chatlogic.h
 graphnode.h
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/graphnode.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/graphnode.h
 graphedge.h
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/graphedge.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/graphedge.h
 chatbot.h
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/chatbot.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/chatbot.h
 
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/chatbot.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/chatbot.h
 wx/bitmap.h
 -
 string
 -
 
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/chatgui.cpp
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/chatgui.cpp
 wx/filename.h
 -
 wx/colour.h
@@ -40,17 +40,21 @@ wx/image.h
 string
 -
 chatbot.h
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/chatbot.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/chatbot.h
 chatlogic.h
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/chatlogic.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/chatlogic.h
 chatgui.h
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/chatgui.h
-
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/chatgui.h
-wx/wx.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/chatgui.h
+memory
 -
 
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/chatlogic.cpp
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/chatgui.h
+wx/wx.h
+-
+memory
+-
+
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/chatlogic.cpp
 fstream
 -
 sstream
@@ -66,47 +70,49 @@ tuple
 algorithm
 -
 graphedge.h
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/graphedge.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/graphedge.h
 graphnode.h
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/graphnode.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/graphnode.h
 chatbot.h
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/chatbot.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/chatbot.h
 chatlogic.h
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/chatlogic.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/chatlogic.h
 
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/chatlogic.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/chatlogic.h
 vector
 -
 string
 -
 chatgui.h
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/chatgui.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/chatgui.h
 
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/graphedge.cpp
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/graphedge.cpp
 graphnode.h
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/graphnode.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/graphnode.h
 graphedge.h
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/graphedge.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/graphedge.h
 
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/graphedge.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/graphedge.h
 vector
 -
 string
 -
 
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/graphnode.cpp
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/graphnode.cpp
 graphedge.h
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/graphedge.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/graphedge.h
 graphnode.h
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/graphnode.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/graphnode.h
 
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/graphnode.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/graphnode.h
 vector
 -
 string
 -
 chatbot.h
-/home/monark/Desktop/workspace/CppND-Memory-Management-Chatbot/src/chatbot.h
+/home/monark/Desktop/workspace/UDACITY-CPP-Nanodegree/CppND-Memory-Management-Chatbot/src/chatbot.h
+memory
+-
 
 /usr/local/include/wx-3.1/wx/accel.h
 wx/defs.h
