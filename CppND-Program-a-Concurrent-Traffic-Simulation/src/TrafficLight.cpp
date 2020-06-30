@@ -42,7 +42,7 @@ void MessageQueue<T>::send(T &&msg)
 
 TrafficLight::TrafficLight()
 {
-    _currentPhase = TrafficLightPhase::red;
+    _currentPhase = TrafficLightPhase(rand() % 2);
 }
 
 void TrafficLight::waitForGreen()
