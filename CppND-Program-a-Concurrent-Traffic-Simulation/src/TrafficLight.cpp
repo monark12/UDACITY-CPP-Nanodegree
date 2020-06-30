@@ -82,14 +82,16 @@ void TrafficLight::cycleThroughPhases()
     //random generator for selection random cycle duration between 4 and 6
     std::random_device rd;
     std::mt19937 eng(rd());
-    std::uniform_int_distribution<> distr(4000,6000);
 
     //init stop watch
     lastUpdate = std::chrono::system_clock::now();
     while(true){
         // to reduce cpu usage
         std::this_thread::sleep_for(std::chrono::milliseconds(1));
-
+    
+        std::default_random_engine generator(std::random_device{}());
+        std::uniform_int_distribution<> distr(4000,6000);
+    
         //compute time difference to stop watch
         long timeSinceLastUpdate = std::chrono::duration_cast<std::chrono::milliseconds>(std::chrono::system_clock::now() - lastUpdate).count();
         if (timeSinceLastUpdate >= distr(eng)){
