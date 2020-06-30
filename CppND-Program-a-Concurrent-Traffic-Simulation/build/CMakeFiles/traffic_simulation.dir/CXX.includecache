@@ -6,41 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/monarkunadkat/UDACITY/C++ Projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/Intersection.cpp
+/Users/monarkunadkat/UDACITY/C++ Projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficLight.cpp
 iostream
--
-thread
--
-chrono
--
-future
 -
 random
 -
-Street.h
-/Users/monarkunadkat/UDACITY/C++ Projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/Street.h
-Intersection.h
-/Users/monarkunadkat/UDACITY/C++ Projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/Intersection.h
-Vehicle.h
-/Users/monarkunadkat/UDACITY/C++ Projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/Vehicle.h
-
-/Users/monarkunadkat/UDACITY/C++ Projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/Intersection.h
-vector
--
-future
--
-mutex
--
-memory
--
-TrafficObject.h
-/Users/monarkunadkat/UDACITY/C++ Projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficObject.h
 TrafficLight.h
 /Users/monarkunadkat/UDACITY/C++ Projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficLight.h
-
-/Users/monarkunadkat/UDACITY/C++ Projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/Street.h
-TrafficObject.h
-/Users/monarkunadkat/UDACITY/C++ Projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficObject.h
 
 /Users/monarkunadkat/UDACITY/C++ Projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficLight.h
 mutex
@@ -59,8 +31,4 @@ thread
 -
 mutex
 -
-
-/Users/monarkunadkat/UDACITY/C++ Projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/Vehicle.h
-TrafficObject.h
-/Users/monarkunadkat/UDACITY/C++ Projects/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficObject.h
 
